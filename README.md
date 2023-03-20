@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h2 align="center">Aspiring Web Developer 🧑‍💻 from India</h2>
 <h5 align="center">Learn | Apply | Grow</h5>
 
-<img src="web-design.gif" />
+![web-design](https://user-images.githubusercontent.com/99186806/226345929-daf37e32-0101-479a-b7c6-0b796b6da63e.gif)
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderak07" alt="coderak07" /></a> </p>-->
 
