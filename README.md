@@ -1,4 +1,4 @@
-
+<!--
  
 **coderak07/coderak07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <h1 align="center">Hi There👋 I'm Akshay Kate</h1>
 <h2 align="center">Aspiring Web Developer 🧑‍💻 from India</h2>
